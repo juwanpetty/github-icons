@@ -1,5 +1,7 @@
 # Welcome to the new file icon set for your IDE!
 
+<img src="https://raw.githubusercontent.com/juwanpetty/github-icons/master/images/screenshot.png" alt="Screenshot of VS Code with GitHub Icons theme" />
+
 ## Installation
 
 To install the new file icon set, follow these steps:
