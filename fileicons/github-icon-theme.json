@@ -17,6 +17,6 @@
   "folder": "_folder_dark",
   "light": {
     "file": "_file_light",
-    "folder": "_foldr_light"
+    "folder": "_folder_light"
   }
 }
