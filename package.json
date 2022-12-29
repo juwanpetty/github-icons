@@ -1,0 +1,47 @@
+{
+  "name": "github-icons",
+  "displayName": "GitHub Icons",
+  "description": "GitHub file and folder icons for VS Code",
+  "version": "1.0.0",
+  "publisher": "juwanpetty",
+  "license": "MIT",
+  "engines": {
+    "vscode": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/juwanpetty/github-icons/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juwanpetty/github-icons.git"
+  },
+  "homepage": "https://github.com/juwanpetty/github-icons/blob/master/README.md",
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "github",
+    "icons",
+    "icon",
+    "file",
+    "folder"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "github-icons",
+        "label": "GitHub Icons",
+        "path": "./fileicons/github-icon-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#282C34",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "author": {
+    "name": "juwanpetty"
+  }
+}
