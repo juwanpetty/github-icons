@@ -1,7 +1,7 @@
 {
   "name": "github-icons",
   "displayName": "GitHub Icons",
-  "description": "GitHub file and folder icons for VS Code",
+  "description": "A GitHub file icon theme for Visual Studio Code",
   "version": "1.0.0",
   "publisher": "juwanpetty",
   "license": "MIT",
@@ -30,14 +30,14 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "github-icons",
+        "id": "github-icons-for-vscode",
         "label": "GitHub Icons",
         "path": "./fileicons/github-icon-theme.json"
       }
     ]
   },
   "galleryBanner": {
-    "color": "#282C34",
+    "color": "#1A1F23",
     "theme": "dark"
   },
   "icon": "images/icon.png",
