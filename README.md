@@ -12,7 +12,7 @@ A GitHub file icon theme for Visual Studio Code
 
 ## Installation
 
-1. Install the icon theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=juwanpetty.github-icons)
+1. Install the icon theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=juwanpetty.github-icons-for-vscode)
 2. Open the command palette (`Ctrl/Cmd + Shift + P`) and search for `Preferences: File Icon Theme`
 3. Select `GitHub Icons`
 
