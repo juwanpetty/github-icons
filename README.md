@@ -6,9 +6,20 @@
 
 A GitHub file icon theme for Visual Studio Code
 
+<div>
+  [![Version](https://img.shields.io/visual-studio-marketplace/v/juwanpetty.github-icons-for-vscode)](https://marketplace.visualstudio.com/items?itemName=juwanpetty.github-icons-for-vscode)
+  [![Installs](https://img.shields.io/visual-studio-marketplace/i/juwanpetty.github-icons-for-vscode)](https://marketplace.visualstudio.com/items?itemName=juwanpetty.github-icons-for-vscode)
+</div>
+
 <img src="https://raw.githubusercontent.com/juwanpetty/github-icons/master/images/screenshot.png" alt="Screenshot of VS Code with GitHub Icons theme" />
 
 </div>
+
+## Supports light and dark mode
+| Light  | Dark |
+| ------------- | ------------- |
+| <img src="https://raw.githubusercontent.com/juwanpetty/github-icons/master/images/light-screenshot.png" alt="Screenshot of VS Code with GitHub Icons light theme" />  | <img src="https://raw.githubusercontent.com/juwanpetty/github-icons/master/images/dark-screenshot.png" alt="Screenshot of VS Code with GitHub Icons dark theme" />  |
+
 
 ## Installation
 
