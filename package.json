@@ -2,7 +2,7 @@
   "name": "github-icons-for-vscode",
   "displayName": "GitHub Icons",
   "description": "A GitHub file icon theme for Visual Studio Code",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "juwanpetty",
   "license": "MIT",
   "engines": {
