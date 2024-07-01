@@ -32,7 +32,12 @@
       {
         "id": "github-icons-for-vscode",
         "label": "GitHub Icons",
-        "path": "./fileicons/github-icon-theme.json"
+        "path": "./fileicons/github-icons-theme.json"
+      },
+      {
+        "id": "github-icons-for-vscode-colorless",
+        "label": "GitHub Icons (Colorless)",
+        "path": "./fileicons/github-icons-theme-colorless.json"
       }
     ]
   },
