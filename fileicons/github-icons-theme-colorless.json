@@ -20,17 +20,17 @@
     "_file": {
       "fontId": "github-icons",
       "fontCharacter": "\\e902",
-      "fontSize": "125%"
+      "fontSize": "122%"
     },
     "_folder": {
       "fontId": "github-icons",
       "fontCharacter": "\\e900",
-      "fontSize": "125%"
+      "fontSize": "122%"
     },
     "_folder_open": {
       "fontId": "github-icons",
       "fontCharacter": "\\e901",
-      "fontSize": "125%"
+      "fontSize": "122%"
     }
   }
 }
